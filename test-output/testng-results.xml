@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-04-19T17:43:34 IST" name="Default suite" finished-at="2023-04-19T17:43:38 IST" duration-ms="4458">
+    <groups>
+    </groups>
+    <test started-at="2023-04-19T17:43:34 IST" name="Default test" finished-at="2023-04-19T17:43:38 IST" duration-ms="4458">
+      <class name="shopperBankCards.GetCards">
+        <test-method signature="getCardsTest()[pri:0, instance:shopperBankCards.GetCards@4d465b11]" started-at="2023-04-19T17:43:34 IST" name="getCardsTest" finished-at="2023-04-19T17:43:38 IST" duration-ms="4404" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getCardsTest -->
+      </class> <!-- shopperBankCards.GetCards -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
