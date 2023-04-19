@@ -1,0 +1,19 @@
+{
+  "city": "Banglore",
+  "country": "India",
+  "createdDateTime": "sdgwg",
+  "dob": "7/8/96",
+  "email": "roha3586n@gmail.com",
+  "firstName": "rohan",
+  "gender": "male",
+  "imageId": "ksdyf",
+  "jwtToken": "eyJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJyb2hhbmltZHNAZ21haWwuY29tIEFETUlOIiwiZXhwIjoxNjgxOTMzNzQ0LCJpYXQiOjE2ODE4OTc3NDR9.LHGMKZhgFV5syhuPwLH5BQltdY6ufeTCl7OZDfiyx3g",
+  "lastName": "imdapur",
+  "password": "Qwerty1@",
+  "phone": "7897897897",
+  "role": "ADMIN",
+  "state": "Karnataka",
+  "status": "ACTIVE",
+  "token": "eyJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJyb2hhbmltZHNAZ21haWwuY29tIEFETUlOIiwiZXhwIjoxNjgxOTMzNzQ0LCJpYXQiOjE2ODE4OTc3NDR9.LHGMKZhgFV5syhuPwLH5BQltdY6ufeTCl7OZDfiyx3g",
+  "zoneId": "ALPHA"
+}
