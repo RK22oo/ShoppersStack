@@ -1,0 +1,13 @@
+{
+  "balance": 500000,
+  "bankName": "TCICI",
+  "cardId": 5104,
+  "cardType": "DEBIT",
+  "cvv": 785,
+  "email": "amr@gmail.com",
+  "expiryDate": "4/28",
+  "nameOnCard": "amr",
+  "number": "3014401191608049",
+  "pin": 8975,
+  "shopperId": 20262
+}
