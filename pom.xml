@@ -1,5 +1,6 @@
 <project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 https://maven.apache.org/xsd/maven-4.0.0.xsd">
   <modelVersion>4.0.0</modelVersion>
+<<<<<<< HEAD
   <groupId>com</groupId>
   <artifactId>swagger</artifactId>
   <version>0.0.1-SNAPSHOT</version>
@@ -12,31 +13,55 @@
 		</dependency>
 
 		<!-- https://mvnrepository.com/artifact/io.rest-assured/rest-assured -->
+=======
+  <groupId>shoppersstack</groupId>
+  <artifactId>ShoppersStackFramework</artifactId>
+  <version>0.0.1-SNAPSHOT</version>
+  
+  <properties>
+		<maven.compiler.source>1.8</maven.compiler.source>
+		<maven.compiler.target>1.8</maven.compiler.target>
+	</properties>
+	<dependencies>
+	<!-- https://mvnrepository.com/artifact/io.rest-assured/rest-assured -->
+>>>>>>> b65790173ffdebed3232fdbbeba69835260c5d4e
 		<dependency>
 			<groupId>io.rest-assured</groupId>
 			<artifactId>rest-assured</artifactId>
 			<version>4.4.0</version>
 		</dependency>
+<<<<<<< HEAD
 
+=======
+		<!-- https://mvnrepository.com/artifact/org.testng/testng -->
+>>>>>>> b65790173ffdebed3232fdbbeba69835260c5d4e
 		<dependency>
 			<groupId>org.testng</groupId>
 			<artifactId>testng</artifactId>
 			<version>7.4.0</version>
 		</dependency>
+<<<<<<< HEAD
 
+=======
+>>>>>>> b65790173ffdebed3232fdbbeba69835260c5d4e
 		<!-- https://mvnrepository.com/artifact/com.googlecode.json-simple/json-simple -->
 		<dependency>
 			<groupId>com.googlecode.json-simple</groupId>
 			<artifactId>json-simple</artifactId>
 			<version>1.1.1</version>
 		</dependency>
+<<<<<<< HEAD
 
 		<!-- This tool is used do the se https://mvnrepository.com/artifact/org.codehaus.jackson/jackson-mapper-asl  -->
+=======
+		<!-- https://mvnrepository.com/artifact/org.codehaus.jackson/jackson-mapper-asl -->
+>>>>>>> b65790173ffdebed3232fdbbeba69835260c5d4e
 		<dependency>
 			<groupId>org.codehaus.jackson</groupId>
 			<artifactId>jackson-mapper-asl</artifactId>
 			<version>1.9.13</version>
 		</dependency>
+<<<<<<< HEAD
 		
 		<!-- https://mvnrepository.com/artifact/org.hamcrest/hamcrest -->
 		<dependency>
@@ -66,3 +91,7 @@
 		
 	</dependencies>
 </project>
+=======
+		</dependencies>
+</project>
+>>>>>>> b65790173ffdebed3232fdbbeba69835260c5d4e

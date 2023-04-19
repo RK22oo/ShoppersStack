@@ -1,6 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <projectDescription>
+<<<<<<< HEAD
 	<name>ShopperStack</name>
+=======
+	<name>ShoppersStackFramework</name>
+>>>>>>> b65790173ffdebed3232fdbbeba69835260c5d4e
 	<comment></comment>
 	<projects>
 	</projects>
