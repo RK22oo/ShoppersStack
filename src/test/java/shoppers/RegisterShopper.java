@@ -23,7 +23,5 @@ public class RegisterShopper {
 		.when().post("/shoppers")
 
 		.then().log().all();
-
-
 	}
 }
