@@ -3,11 +3,19 @@
 <suite name="Failed suite [Default suite]" guice-stage="DEVELOPMENT">
   <test thread-count="5" name="Default test(failed)">
     <classes>
+<<<<<<< HEAD
+      <class name="shopperBankCards.GetBank">
+        <methods>
+          <include name="getBankTest"/>
+        </methods>
+      </class> <!-- shopperBankCards.GetBank -->
+=======
       <class name="shopper.profile.SetUserPasswordTest">
         <methods>
           <include name="set"/>
         </methods>
       </class> <!-- shopper.profile.SetUserPasswordTest -->
+>>>>>>> b65790173ffdebed3232fdbbeba69835260c5d4e
     </classes>
   </test> <!-- Default test(failed) -->
 </suite> <!-- Failed suite [Default suite] -->
